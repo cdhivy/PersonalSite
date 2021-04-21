@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kd.ms
+Token: 33790a586f195e768b1dbf65da2696a68fde6b8f37f75b097d3d37f73f21c62e
